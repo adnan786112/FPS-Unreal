@@ -10,12 +10,12 @@
 
 <h2>How to Extract & Play</h2>
 <ol>
-  <li><strong>Download all three files</strong> – the main <code>.zip</code>, <code>.z01</code>, and <code>.z02</code></li>
-  <li><strong>Place them in the same folder</strong> – copy/paste <code>.z01</code> and <code>.z02</code> into the same directory as the main <code>.zip</code> file</li>
-  <li><strong>Extract the main zip</strong> – right-click the main <code>.zip</code> and extract it (use <a href="https://www.7-zip.org/">7-Zip</a> or WinRAR if Windows Explorer doesn't work)</li>
+  <li>Link to Zip File: https://drive.google.com/file/d/1RZR7w9NJPBckeabWwqj5tx9tpxl4cRpB/view?usp=sharing</li>
+  <li><strong>Download the zip file
+  <li><strong>Extract the zip file</strong></li>
   <li><strong>Run the game</strong> – open the extracted folder and double-click the <code>.exe</code> file to play</li>
 </ol>
-<p><strong>Note:</strong> All three files (<code>.zip</code>, <code>.z01</code>, <code>.z02</code>) <em>must</em> be in the same folder before extracting, otherwise the extraction will fail.</p>
+<p><strong>Note:</strong>A windows warning may pop telling its unsafe ignore it and Press Run Anyway its completely safe(these warning usually come up with custom made games)
 <hr>
 
 <h2>How to Play</h2>
